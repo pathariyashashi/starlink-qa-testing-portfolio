@@ -4,8 +4,6 @@
 ![Python](https://img.shields.io/badge/Python-Backend-green)
 ![Selenium](https://img.shields.io/badge/Selenium-Automation-brightgreen)
 
-Manual Testing | API Testing | Selenium Automation | Performance Testing | Security Testing
-
 ## Author
 
 Shashi Pathariya
