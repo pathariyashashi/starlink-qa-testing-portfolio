@@ -17,7 +17,7 @@ A portfolio project demonstrating end-to-end QA testing practices using the Star
 ## Team
 
 ### Shashi Pathariya
-QA Engineer
+QA Enthusiast
 
 Responsibilities:
 - Test Planning
