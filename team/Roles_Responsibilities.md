@@ -1,6 +1,6 @@
 # Roles and Responsibilities
 
-## QA Engineer
+## QA Enthusiast
 
 ### Responsibilities
 
