@@ -8,7 +8,7 @@ Starlink QA Testing Portfolio
 
 ### Shashi Pathariya
 
-Role: QA Engineer
+Role: QA Enthusiast
 
 Responsibilities:
 
