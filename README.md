@@ -1,4 +1,12 @@
-# Starlink QA Testing Portfolio
+# 🚀 Starlink QA Testing Portfolio
+
+Manual Testing | API Testing | Selenium Automation | Performance Testing | Security Testing
+
+## Author
+
+Shashi Pathariya
+
+Python Backend Developer | QA Testing Enthusiast | Manual Testing | API Testing | Selenium | Django | MCA Graduate# Starlink QA Testing Portfolio
 
 A portfolio project demonstrating end-to-end QA testing practices using the Starlink website as a testing target.
 
