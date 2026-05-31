@@ -1,0 +1,36 @@
+{
+  "info": {
+    "name": "Starlink QA Portfolio Collection",
+    "_postman_id": "12345678-abcd-1234-abcd-123456789000",
+    "description": "Sample API collection for QA portfolio demonstration",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "Health Check",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "https://example.com/api/status",
+          "protocol": "https",
+          "host": ["example","com"],
+          "path": ["api","status"]
+        }
+      }
+    },
+    {
+      "name": "Get User Details",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "https://example.com/api/users/1",
+          "protocol": "https",
+          "host": ["example","com"],
+          "path": ["api","users","1"]
+        }
+      }
+    }
+  ]
+}
